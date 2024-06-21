@@ -166,7 +166,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 79vh;
 }
 
 .section__pic-container {
@@ -356,6 +356,7 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  height: 80%
 }
 
 .article-container {
@@ -412,7 +413,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 26vh;
 }
 
 .contact-info-upper-container {
@@ -449,7 +450,8 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-  height: 26vh;
+  /* height: 26vh; */
+  padding-top: 10vh;
   margin: 0 1rem;
 }
 
